@@ -1,4 +1,3 @@
-# jas
 # JAS – Community Platform 
 
 JAS is a full-stack community platform that allows users to register, create or join communities, make posts, and engage with other members. It also supports email notifications and admin moderation.
